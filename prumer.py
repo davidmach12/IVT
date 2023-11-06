@@ -16,4 +16,4 @@ for x in cisla:
 
 print(f'Prumer je {total/pocetcisel}')\
 
-
+#cus
